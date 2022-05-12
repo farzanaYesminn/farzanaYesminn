@@ -1,16 +1,16 @@
-### Hi there 👋
+# Farzana Yesmin
 
-<!--
-**farzanayesminjule/farzanayesminjule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:yesminfarzana.cse@gmail.com?subject=From%20GitHub&cc=farzana-15-2549@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/farzanayesminjule/) <img src="https://komarev.com/ghpvc/?username=farzanayesminjule" alt="farzanayesminjule" />
 
-Here are some ideas to get you started:
+:wave: Hi there, My name is Farzana Yesmin.😀 I'm 24 years old, I'm a self-taught Data Scientist.
+I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
+Currently, I have completed undergraduate in CSE from Bangladesh. 
+I'm interested in doing research on Machine Learning, Artificial Intelligene and Data Related Problem. 
+I love to work with new technologies and playing with Data and AI.🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=farzanayesminjule&theme=Cyberpunk&show_icons=true" alt="farzanayesminjule" />
+<a href="https://github.com/farzanayesminjule"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=farzanayesminjule&layout=compact&theme=Cyberpunk" />
+</a>
+</p>
