@@ -14,3 +14,5 @@ I love to work with new technologies and playing with Data and AI.🤖
 <a href="https://github.com/farzanayesminjule"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=farzanayesminjule&layout=compact&theme=Cyberpunk" />
 </a>
 </p>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mdmosfikurrahman&theme=dark)  
