@@ -10,7 +10,6 @@ I'm interested in doing research on Machine Learning, Artificial Intelligene and
 I love to work with new technologies and playing with Data and AI.🤖
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=farzanayesminjule&theme=Cyberpunk&show_icons=true" alt="farzanayesminjule" />
 <a href="https://github.com/farzanayesminjule"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=farzanayesminjule&layout=compact&theme=Cyberpunk" />
 </a>
 </p>
