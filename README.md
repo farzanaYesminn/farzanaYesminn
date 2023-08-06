@@ -7,7 +7,7 @@
 
 🚀 I'm passionate about creating responsive and interactive web applications that leave a lasting impression.
 
-🔧 Proficient in HTML, CSS(Bootstrap & Tailwind), JavaScript, and modern frontend frameworks (React).
+🔧 Proficient in<span style='color:red'> HTML, CSS(Bootstrap & Tailwind), JavaScript</span> and modern frontend frameworks (React).
 
 📱 Mobile-First Approach: Ensuring seamless user experiences across all devices and screen sizes.
 
@@ -18,6 +18,7 @@
 📫 Let's Connect: I'm open to collaborations and discussions, so don't hesitate to get in touch!
 
 <b>Happy coding! 🌟</b>
+<hr>
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=farzanayesminjule&theme=dark)  
